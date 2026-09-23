@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a65d000d0b5972b9d4c7282c",
+  "owner": "wegyvj",
+  "repo": "page-fbaeabc862ef08ed67dc07ca",
+  "title": "豆猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fbaeabc862ef08ed67dc07ca",
+      "a": "豆猫",
+      "b": "稳定全球clash加速器",
+      "entity": "豆猫",
+      "brand": "豆猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c1d65b65ee9040b784225ba9957865c73bbcba436dc64905bb76a558704a749d",
+      "content": {
+        "primary_entity": "豆猫",
+        "keyword1": "豆猫",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选 Clash 客户端，可参考各自的订阅导入说明。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量使用习惯选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐，配置更省心",
+          "AI_DESCRIPTION": "，豆猫面向需要稳定全球线路的 Clash 用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速；团队版每月 1000GB 流量、20 台设备在线。搭配 Clash 客户端订阅配置，可按设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供 IPLC 专线及原生流媒体解锁，适合游戏和影音场景。",
+          "AI_FEATURE_TEXT_3": "月付之外提供年付方案：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备阶梯",
+          "AI_FEATURE_TITLE_2": "线路与场景匹配",
+          "AI_FEATURE_TITLE_3": "月付年付灵活",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到 Clash 订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "豆猫为 Clash 用户提供多档套餐，覆盖个人到团队的不同设备数量和流量需求。结合客户端订阅配置，可按自身的上网场景挑选合适方案。",
+          "AI_HERO_SUBTITLE": "多档 Clash 套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线助力游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案降低长期成本",
+          "AI_PLANS_INTRO": "对照流量、设备数量与线路权益，选择适合自己的档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月度流量预估，在基础版、旗舰版与团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线数、流量额度与线路类型，确认与使用场景匹配。",
+          "AI_STEP_TEXT_3": "依照所用 Clash 客户端的订阅导入说明完成配置，并在多设备上按套餐限制使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置 Clash 订阅",
+          "AI_VISUAL_TITLE": "豆猫 Clash 套餐",
+          "AI_FAQ_TITLE": "豆猫常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "豆猫基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，使用普通节点池；旗舰版每月 300GB、5 台设备，增加全节点流媒体解锁与 IPLC 专线，并含优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个豆猫账号能同时在几台设备上用？",
+          "AI_FAQ_ANSWER_2": "按套餐不同，基础版 3 台、旗舰版 5 台、团队版 20 台设备可同时在线，超出数量需调整档位或减少同时连接。",
+          "AI_FAQ_QUESTION_3": "豆猫订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_3": "先确认设备系统对应的客户端，再获取订阅链接，依照客户端文档的导入说明添加订阅，完成后选择节点即可使用。",
+          "AI_FAQ_QUESTION_4": "豆猫年付比月付划算吗？",
+          "AI_FAQ_ANSWER_4": "年付方案按十个月左右价格计算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用选择年付支出更低。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、20 台设备在线，配 VIP 高带宽节点与定制路由，适合多人协作或设备较多的团队统一使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "73wqjh.cn",
+    "host": "73wqjh.cn"
+  },
+  "file_hashes": {
+    "index.html": "9049b94f017940805cafc315d6db1d0414cf101af5e02c61f37f765b7c221f89",
+    "sitemap.xml": "cb14361ec7f04fe653d63de4dcb3866b8bca77ad7d3147091a89628ac8cea138",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a3acea7a0bf5c7aa665c0f8f604c47f37689f8d1cd6a840d9b23cc212a2c96d",
+    "robots.txt": "ae9898bcb4f5b5d02aaa3d8e1450a2be7e71c4680f64b5bde6aec7127b71d455",
+    "ef9a190ab07ba97ac7fbdb52aa7d1593.txt": "5167398077d413fd0ebb69101b5ac0c71282c0339dc7708d5300a6652008e51d"
+  },
+  "revision": "5f52b0ea465a442e09e9d5a991ae5560c5e2c13d84bb83b5a4d149ae56df4008"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://73wqjh.cn/sitemap.xml
